@@ -9,4 +9,6 @@ We are the Group 8. Our group members are:
 
 
 ## Project Part 1
-[Here](files/example.html) is our Project Part 1.
+[Here](files/part1.html) is our Project Part 1.
+## Project Part 2
+[Here](files/part2.html) is our Project Part 1.

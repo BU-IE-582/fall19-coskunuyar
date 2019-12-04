@@ -6,9 +6,9 @@ We are the Group 8. Our group members are:
 3. Kaan Kara
 4. Yusuf Ozturk
 
-#HW2(04.12.2019)
+## HW2(04.12.2019)
 [Here](files/HW2part1part2.html) is our Project Part 1 and Part 2.
-#HW1
+##HW1
 ## Project Part 1
 [Here](files/part1.html) is our Project Part 1.
 ## Project Part 2

@@ -9,8 +9,6 @@ We are the Group 8. Our group members are:
 ## HW3
 ### Report
 [Here](files/HW2part1part2.html) Report.
-##### Image 1
-[Here](files/HW2part1part2.html) Result of Image 1.
 ##### Image 2
 [Here](files/HW2part1part2.html) Result of Image 2.
 ##### Image 3
